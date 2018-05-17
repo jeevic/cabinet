@@ -1,5 +1,5 @@
 {
-    "name": "cabinet/cabarchive",
+    "name": "jeevi/cabinet",
     "description": "Microsoft Cabinet file extraction wrapper.  Uses either cabextract or expand",
     "keywords": [
         "Microsoft Cabinet",
@@ -22,7 +22,7 @@
         "source": "https://github.com/jeevi-cao/cabinet",
         "issues": "https://github.com/jeevi-cao/cabinet/issues"
     },
-    "version": "0.1.0",
+    "version": "0.1.1",
     "require": {
         "php": ">=5.2.1"
     },
