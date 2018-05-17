@@ -7,7 +7,7 @@ INSTALLATION
 
 The recommended way to install cabarchive is through Composer:
 
-     composer require cabinet/cabarchive
+     composer require jeevi/cabinet
 
 
 REQUIREMENTS
